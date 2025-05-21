@@ -19,5 +19,5 @@ Soy un apasionado de la tecnología con interés en la **Inteligencia Artificial
 
 ## 📊 Lenguajes más utilizados
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mazzoniagustin&layout=compact&theme=github_dark" width="45%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mazzoniagustin&theme=github_dark" width="45%" />
 </p>
