@@ -1,4 +1,4 @@
-# 👋 ¡Hola! Soy Agustín
+#  Hola, Soy Agustín
 
 Soy un apasionado de la tecnología con interés en la **Inteligencia Artificial** y el **análisis de datos**.
 
@@ -14,10 +14,7 @@ Soy un apasionado de la tecnología con interés en la **Inteligencia Artificial
 - 📈 Ciencia de datos y estadísticas aplicadas  
 - 🧠 Modelos de aprendizaje automático  
 
-## 📫 Contacto
-- ✉️ Email: [mazzoni.agustine@gmail.com](mailto:mazzoni.agustine@gmail.com)
-
 ## 📊 Lenguajes más utilizados
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mazzoniagustin&theme=github_dark" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mazzoniagustin&layout=compact&theme=github_dark&cache_seconds=3600" width="45%" />
 </p>
