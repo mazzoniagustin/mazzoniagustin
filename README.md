@@ -7,6 +7,8 @@ Soy un apasionado de la tecnología con interés en la **Inteligencia Artificial
 ![Java](https://img.shields.io/badge/-Java-333?style=flat&logo=java)
 ![Pascal](https://img.shields.io/badge/-Pascal-333?style=flat&logo=delphi)
 ![Jupyter](https://img.shields.io/badge/-Jupyter-333?style=flat&logo=jupyter)
+![Bash](https://img.shields.io/badge/-Bash-333?style=flat&logo=gnu-bash)
+![SQL](https://img.shields.io/badge/-SQL-333?style=flat)
 
 ## 🎯 Intereses
 - 🤖 Inteligencia Artificial  
